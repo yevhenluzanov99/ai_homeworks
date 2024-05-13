@@ -57,14 +57,14 @@ def check_normality_by_plot(df :pd.DataFrame) ->None:
     filtered_columns = filtered_columns.filter(regex=r'^(?!.*encoded).*$', axis=1)
     numeric_features = filtered_columns.select_dtypes(include=['float64', 'int64']).columns
 
-    # Вычисляем количество subplot'ов, чтобы подобрать подходящий размер фигуры
+    # calculate number of plots
     num_plots = len(numeric_features)
     num_rows = (num_plots - 1) // 3 + 1
     num_cols = min(num_plots, 3)
 
     plt.figure(figsize=(num_cols * 6, num_rows * 4))
 
-    # Используем enumerate для перечисления признаков и их индексов
+    # plot histograms
     for i, feature in enumerate(numeric_features, 1):
         
         plt.subplot(num_rows, num_cols, i)
