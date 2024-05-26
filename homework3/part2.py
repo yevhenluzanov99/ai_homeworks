@@ -1,12 +1,12 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from statsmodels.stats.diagnostic import lilliefors
-from scipy.stats import kendalltau
-from itertools import combinations
 import re
-from scipy.stats import shapiro
+from itertools import combinations
+
+import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+import seaborn as sns
+from scipy.stats import kendalltau, shapiro
+from statsmodels.stats.diagnostic import lilliefors
 
 df = pd.read_csv("homework3/homework3_data_preprocessed_result.csv")
 

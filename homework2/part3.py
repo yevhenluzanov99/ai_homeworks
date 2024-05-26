@@ -1,6 +1,6 @@
-import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 
 #Upload homework2_data.csv
 df = pd.read_csv('homework2\homework2_data.csv')

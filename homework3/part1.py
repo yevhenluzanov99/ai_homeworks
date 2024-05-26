@@ -1,6 +1,8 @@
+import re
+
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
-import re
+
 """
 sybmols that should be removed from the column names
 """
