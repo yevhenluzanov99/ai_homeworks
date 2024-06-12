@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 from sklearn import linear_model
 from sklearn.metrics import ConfusionMatrixDisplay, accuracy_score, confusion_matrix
 from sklearn.model_selection import GridSearchCV, train_test_split
-
+from functions import preprocess_data
 
 def plot_confusion_matrix(y_true, y_pred, classes, cmap=plt.cm.Blues):
     cm = confusion_matrix(y_true, y_pred)
@@ -14,7 +14,7 @@ def plot_confusion_matrix(y_true, y_pred, classes, cmap=plt.cm.Blues):
     plt.show()
 
 
-df = pd.read_csv("homework8/homework8_data.csv")
+df = preprocess_data()
 x = df.drop(columns=["survived"])
 y = df["survived"]
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3, random_state=9)

@@ -6,7 +6,7 @@ from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
 from sklearn.model_selection import  train_test_split
 from torch import nn
 from torch.utils.data import DataLoader, TensorDataset
-
+from functions import preprocess_data
 
 def plot_confusion_matrix(y_true, y_pred, classes, cmap=plt.cm.Blues):
     cm = confusion_matrix(y_true, y_pred)
@@ -32,7 +32,7 @@ class LogisticRegression_torch(nn.Module):
         return output
 
 
-df = pd.read_csv("homework8/homework8_data.csv")
+df = preprocess_data()
 x = df.drop(columns=["survived"])
 y = df["survived"]
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3, random_state=9)
@@ -48,7 +48,7 @@ test = TensorDataset(x_test, y_test)
 test_loader = DataLoader(dataset=test, batch_size=300, shuffle=True)
 set_seed(9)
 # 2.2. Perform Hyperparameter Tuning of the created model manually (play around)
-in_dim, out_dim = 5, 1
+in_dim, out_dim = 10, 1
 lr = 1e-4
 epochs = 100
 # 2.1. Create Logistic Regression model
