@@ -1,0 +1,14 @@
+2024-06-23 18:46:03,386 - mylogger - INFO - learning rate: 0.01, epochs: 10
+2024-06-23 18:46:10,711 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.786905 	 [Test Loss]: 0.196037
+2024-06-23 18:46:19,470 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.145548 	 [Test Loss]: 0.115557
+2024-06-23 18:46:29,048 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 0.088292 	 [Test Loss]: 0.096182
+2024-06-23 18:46:39,969 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 0.058608 	 [Test Loss]: 0.088692
+2024-06-23 18:46:49,487 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.039111 	 [Test Loss]: 0.074314
+2024-06-23 18:46:58,937 - mylogger - INFO - Train Epoch: 5 	 [Train Loss]: 0.026327 	 [Test Loss]: 0.073734
+2024-06-23 18:47:08,436 - mylogger - INFO - Train Epoch: 6 	 [Train Loss]: 0.019899 	 [Test Loss]: 0.067852
+2024-06-23 18:47:17,902 - mylogger - INFO - Train Epoch: 7 	 [Train Loss]: 0.013240 	 [Test Loss]: 0.079278
+2024-06-23 18:47:27,504 - mylogger - INFO - Train Epoch: 8 	 [Train Loss]: 0.008948 	 [Test Loss]: 0.074110
+2024-06-23 18:47:39,076 - mylogger - INFO - Train Epoch: 9 	 [Train Loss]: 0.005706 	 [Test Loss]: 0.074898
+2024-06-23 18:47:39,084 - mylogger - INFO - Model saved to homework9/models/primitiveFCNN.pth
+2024-06-23 18:47:47,571 - mylogger - INFO - train_accuracy = 0.9989
+2024-06-23 18:47:48,807 - mylogger - INFO - test_accuracy = 0.9810

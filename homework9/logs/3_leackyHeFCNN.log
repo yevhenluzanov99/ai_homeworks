@@ -1,0 +1,22 @@
+2024-06-23 18:11:48,199 - mylogger - INFO - learning rate: 0.001, epochs: 15
+2024-06-23 18:11:55,567 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.648670 	 [Test Loss]: 0.214667
+2024-06-23 18:12:04,877 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.158115 	 [Test Loss]: 0.147963
+2024-06-23 18:12:14,211 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 0.101048 	 [Test Loss]: 0.119376
+2024-06-23 18:12:23,607 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 0.069117 	 [Test Loss]: 0.104304
+2024-06-23 18:12:33,035 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.049475 	 [Test Loss]: 0.100579
+2024-06-23 18:12:42,599 - mylogger - INFO - Train Epoch: 5 	 [Train Loss]: 0.036063 	 [Test Loss]: 0.084627
+2024-06-23 18:12:52,428 - mylogger - INFO - Train Epoch: 6 	 [Train Loss]: 0.025712 	 [Test Loss]: 0.082294
+2024-06-23 18:13:02,263 - mylogger - INFO - Train Epoch: 7 	 [Train Loss]: 0.019064 	 [Test Loss]: 0.079650
+2024-06-23 18:13:11,775 - mylogger - INFO - Train Epoch: 8 	 [Train Loss]: 0.013664 	 [Test Loss]: 0.076095
+2024-06-23 18:13:21,517 - mylogger - INFO - Train Epoch: 9 	 [Train Loss]: 0.010216 	 [Test Loss]: 0.077796
+2024-06-23 18:13:31,102 - mylogger - INFO - Train Epoch: 10 	 [Train Loss]: 0.007803 	 [Test Loss]: 0.077264
+2024-06-23 18:13:41,683 - mylogger - INFO - Train Epoch: 11 	 [Train Loss]: 0.006211 	 [Test Loss]: 0.075026
+2024-06-23 18:13:51,852 - mylogger - INFO - Train Epoch: 12 	 [Train Loss]: 0.004778 	 [Test Loss]: 0.074695
+2024-06-23 18:14:01,506 - mylogger - INFO - Train Epoch: 13 	 [Train Loss]: 0.003656 	 [Test Loss]: 0.074068
+2024-06-23 18:14:11,191 - mylogger - INFO - Train Epoch: 14 	 [Train Loss]: 0.002935 	 [Test Loss]: 0.075596
+2024-06-23 18:14:11,200 - mylogger - INFO - Model saved to homework9/models/leacky_he_FCNN.pth
+2024-06-23 18:14:18,847 - mylogger - INFO - train_accuracy = 1.0000
+2024-06-23 18:14:20,078 - mylogger - INFO - test_accuracy = 0.9788
+2024-06-23 18:17:35,214 - mylogger - INFO - learning rate: 0.001, epochs: 15
+2024-06-23 18:17:40,869 - mylogger - INFO - train_accuracy = 1.0000
+2024-06-23 18:17:41,797 - mylogger - INFO - test_accuracy = 0.9788

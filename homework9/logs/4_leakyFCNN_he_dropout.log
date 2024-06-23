@@ -1,0 +1,87 @@
+2024-06-23 18:18:14,283 - mylogger - INFO - learning rate: 0.01, epochs: 10
+2024-06-23 18:20:14,506 - mylogger - INFO - learning rate: 0.01, epochs: 10
+2024-06-23 18:20:22,143 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 4.522074 	 [Test Loss]: 2.293157
+2024-06-23 18:20:29,733 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 2.320184 	 [Test Loss]: 2.284995
+2024-06-23 18:20:37,809 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 2.306438 	 [Test Loss]: 2.273874
+2024-06-23 18:20:47,221 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 2.288767 	 [Test Loss]: 2.236685
+2024-06-23 18:20:56,318 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 2.271345 	 [Test Loss]: 2.195860
+2024-06-23 18:21:05,171 - mylogger - INFO - Train Epoch: 5 	 [Train Loss]: 2.242861 	 [Test Loss]: 2.137174
+2024-06-23 18:21:14,171 - mylogger - INFO - Train Epoch: 6 	 [Train Loss]: 2.223683 	 [Test Loss]: 2.031533
+2024-06-23 18:21:23,227 - mylogger - INFO - Train Epoch: 7 	 [Train Loss]: 2.211693 	 [Test Loss]: 1.913644
+2024-06-23 18:21:32,344 - mylogger - INFO - Train Epoch: 8 	 [Train Loss]: 2.187449 	 [Test Loss]: 1.912424
+2024-06-23 18:21:41,598 - mylogger - INFO - Train Epoch: 9 	 [Train Loss]: 2.145750 	 [Test Loss]: 1.855744
+2024-06-23 18:21:41,607 - mylogger - INFO - Model saved to homework9/models/4_leakyFCNN_he_dropout.pth
+2024-06-23 18:21:48,960 - mylogger - INFO - train_accuracy = 0.4579
+2024-06-23 18:21:50,182 - mylogger - INFO - test_accuracy = 0.4564
+2024-06-23 18:22:24,445 - mylogger - INFO - learning rate: 0.1, epochs: 10
+2024-06-23 18:22:31,573 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 21.788460 	 [Test Loss]: 2.236187
+2024-06-23 18:22:40,725 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 3.228866 	 [Test Loss]: 2.189756
+2024-06-23 18:22:49,930 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 3.476134 	 [Test Loss]: 2.291221
+2024-06-23 18:22:59,597 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 3.433565 	 [Test Loss]: 2.335440
+2024-06-23 18:23:09,148 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 6.116782 	 [Test Loss]: 3.506158
+2024-06-23 18:23:18,630 - mylogger - INFO - Train Epoch: 5 	 [Train Loss]: 10.935460 	 [Test Loss]: 6.609964
+2024-06-23 18:23:28,127 - mylogger - INFO - Train Epoch: 6 	 [Train Loss]: 27.333486 	 [Test Loss]: 7.980978
+2024-06-23 18:23:48,504 - mylogger - INFO - learning rate: 0.001, epochs: 40
+2024-06-23 18:23:57,979 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 9.854449 	 [Test Loss]: 2.268470
+2024-06-23 18:24:07,797 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 2.534953 	 [Test Loss]: 2.295683
+2024-06-23 18:24:17,401 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 2.389682 	 [Test Loss]: 2.295515
+2024-06-23 18:24:26,769 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 2.342244 	 [Test Loss]: 2.289203
+2024-06-23 18:24:36,212 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 2.302001 	 [Test Loss]: 2.262847
+2024-06-23 18:24:45,869 - mylogger - INFO - Train Epoch: 5 	 [Train Loss]: 2.272675 	 [Test Loss]: 2.207025
+2024-06-23 18:24:55,140 - mylogger - INFO - Train Epoch: 6 	 [Train Loss]: 2.245657 	 [Test Loss]: 2.142791
+2024-06-23 18:25:04,714 - mylogger - INFO - Train Epoch: 7 	 [Train Loss]: 2.210087 	 [Test Loss]: 2.102506
+2024-06-23 18:25:14,243 - mylogger - INFO - Train Epoch: 8 	 [Train Loss]: 2.179094 	 [Test Loss]: 2.038630
+2024-06-23 18:25:23,695 - mylogger - INFO - Train Epoch: 9 	 [Train Loss]: 2.150805 	 [Test Loss]: 2.008903
+2024-06-23 18:25:33,237 - mylogger - INFO - Train Epoch: 10 	 [Train Loss]: 2.119000 	 [Test Loss]: 1.943595
+2024-06-23 18:25:42,544 - mylogger - INFO - Train Epoch: 11 	 [Train Loss]: 2.095596 	 [Test Loss]: 1.894880
+2024-06-23 18:25:51,933 - mylogger - INFO - Train Epoch: 12 	 [Train Loss]: 2.069838 	 [Test Loss]: 1.853795
+2024-06-23 18:26:01,333 - mylogger - INFO - Train Epoch: 13 	 [Train Loss]: 2.033965 	 [Test Loss]: 1.820703
+2024-06-23 18:26:10,766 - mylogger - INFO - Train Epoch: 14 	 [Train Loss]: 1.994342 	 [Test Loss]: 1.719893
+2024-06-23 18:26:20,237 - mylogger - INFO - Train Epoch: 15 	 [Train Loss]: 1.965830 	 [Test Loss]: 1.710015
+2024-06-23 18:26:29,734 - mylogger - INFO - Train Epoch: 16 	 [Train Loss]: 1.919877 	 [Test Loss]: 1.560791
+2024-06-23 18:26:39,037 - mylogger - INFO - Train Epoch: 17 	 [Train Loss]: 1.885763 	 [Test Loss]: 1.531414
+2024-06-23 18:26:48,432 - mylogger - INFO - Train Epoch: 18 	 [Train Loss]: 1.840798 	 [Test Loss]: 1.429947
+2024-06-23 18:26:57,752 - mylogger - INFO - Train Epoch: 19 	 [Train Loss]: 1.792352 	 [Test Loss]: 1.331564
+2024-06-23 18:27:07,452 - mylogger - INFO - Train Epoch: 20 	 [Train Loss]: 1.748321 	 [Test Loss]: 1.259521
+2024-06-23 18:27:17,110 - mylogger - INFO - Train Epoch: 21 	 [Train Loss]: 1.697542 	 [Test Loss]: 1.186720
+2024-06-23 18:27:27,285 - mylogger - INFO - Train Epoch: 22 	 [Train Loss]: 1.656238 	 [Test Loss]: 1.120010
+2024-06-23 18:27:36,721 - mylogger - INFO - Train Epoch: 23 	 [Train Loss]: 1.601327 	 [Test Loss]: 1.056985
+2024-06-23 18:27:46,191 - mylogger - INFO - Train Epoch: 24 	 [Train Loss]: 1.549583 	 [Test Loss]: 0.975168
+2024-06-23 18:27:55,609 - mylogger - INFO - Train Epoch: 25 	 [Train Loss]: 1.502676 	 [Test Loss]: 0.966522
+2024-06-23 18:28:04,953 - mylogger - INFO - Train Epoch: 26 	 [Train Loss]: 1.462445 	 [Test Loss]: 0.884344
+2024-06-23 18:28:14,545 - mylogger - INFO - Train Epoch: 27 	 [Train Loss]: 1.409018 	 [Test Loss]: 0.858667
+2024-06-23 18:28:24,152 - mylogger - INFO - Train Epoch: 28 	 [Train Loss]: 1.368075 	 [Test Loss]: 0.815839
+2024-06-23 18:28:33,588 - mylogger - INFO - Train Epoch: 29 	 [Train Loss]: 1.318748 	 [Test Loss]: 0.772169
+2024-06-23 18:28:43,017 - mylogger - INFO - Train Epoch: 30 	 [Train Loss]: 1.298259 	 [Test Loss]: 0.741403
+2024-06-23 18:28:52,449 - mylogger - INFO - Train Epoch: 31 	 [Train Loss]: 1.254816 	 [Test Loss]: 0.741254
+2024-06-23 18:29:01,910 - mylogger - INFO - Train Epoch: 32 	 [Train Loss]: 1.216521 	 [Test Loss]: 0.679220
+2024-06-23 18:29:11,990 - mylogger - INFO - Train Epoch: 33 	 [Train Loss]: 1.171664 	 [Test Loss]: 0.670230
+2024-06-23 18:29:21,903 - mylogger - INFO - Train Epoch: 34 	 [Train Loss]: 1.143446 	 [Test Loss]: 0.628376
+2024-06-23 18:29:31,345 - mylogger - INFO - Train Epoch: 35 	 [Train Loss]: 1.110375 	 [Test Loss]: 0.605647
+2024-06-23 18:29:40,799 - mylogger - INFO - Train Epoch: 36 	 [Train Loss]: 1.101510 	 [Test Loss]: 0.593592
+2024-06-23 18:29:50,384 - mylogger - INFO - Train Epoch: 37 	 [Train Loss]: 1.058403 	 [Test Loss]: 0.576512
+2024-06-23 18:29:59,828 - mylogger - INFO - Train Epoch: 38 	 [Train Loss]: 1.032310 	 [Test Loss]: 0.579085
+2024-06-23 18:30:09,135 - mylogger - INFO - Train Epoch: 39 	 [Train Loss]: 1.021812 	 [Test Loss]: 0.567486
+2024-06-23 18:30:09,142 - mylogger - INFO - Model saved to homework9/models/4_leakyFCNN_he_dropout.pth
+2024-06-23 18:30:16,770 - mylogger - INFO - train_accuracy = 0.8668
+2024-06-23 18:30:18,057 - mylogger - INFO - test_accuracy = 0.8675
+2024-06-23 18:32:49,913 - mylogger - INFO - learning rate: 0.001, epochs: 10, dropout: 0.3
+2024-06-23 18:32:57,137 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 1.098717 	 [Test Loss]: 0.238468
+2024-06-23 18:33:04,803 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.314496 	 [Test Loss]: 0.169654
+2024-06-23 18:33:13,945 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 0.233311 	 [Test Loss]: 0.132565
+2024-06-23 18:33:23,384 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 0.185623 	 [Test Loss]: 0.117801
+2024-06-23 18:33:32,542 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.152817 	 [Test Loss]: 0.104228
+2024-06-23 18:33:41,821 - mylogger - INFO - Train Epoch: 5 	 [Train Loss]: 0.131282 	 [Test Loss]: 0.095307
+2024-06-23 18:33:51,263 - mylogger - INFO - Train Epoch: 6 	 [Train Loss]: 0.114971 	 [Test Loss]: 0.084245
+2024-06-23 18:34:00,838 - mylogger - INFO - Train Epoch: 7 	 [Train Loss]: 0.098992 	 [Test Loss]: 0.083007
+2024-06-23 18:34:10,648 - mylogger - INFO - Train Epoch: 8 	 [Train Loss]: 0.088479 	 [Test Loss]: 0.079626
+2024-06-23 18:34:21,310 - mylogger - INFO - Train Epoch: 9 	 [Train Loss]: 0.082020 	 [Test Loss]: 0.075442
+2024-06-23 18:34:21,318 - mylogger - INFO - Model saved to homework9/models/4_leakyFCNN_he_dropout.pth
+2024-06-23 18:34:28,960 - mylogger - INFO - train_accuracy = 0.9911
+2024-06-23 18:34:30,118 - mylogger - INFO - test_accuracy = 0.9766
+2024-06-23 18:35:02,609 - mylogger - INFO - learning rate: 0.001, epochs: 10, dropout: 0.3
+2024-06-23 18:35:09,101 - mylogger - INFO - train_accuracy = 0.9911
+2024-06-23 18:35:10,415 - mylogger - INFO - test_accuracy = 0.9766
+2024-06-23 18:50:50,530 - mylogger - INFO - learning rate: 0.001, epochs: 10, dropout: 0.3
+2024-06-23 18:50:56,181 - mylogger - INFO - train_accuracy = 0.9911
+2024-06-23 18:50:57,104 - mylogger - INFO - test_accuracy = 0.9766
