@@ -1,3 +1,7 @@
+# Info
+    I comment training function for each model and save trained models in files for easier verification. Also save training metrics
+
+
 # Folder logs
     contains log files for each models training process
 
