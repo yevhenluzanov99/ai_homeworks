@@ -1,0 +1,16 @@
+2024-06-30 19:14:37,179 - mylogger - INFO - learning rate: 0.001, epochs: 10
+2024-06-30 19:15:16,586 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.529804 	 [Test Loss]: 0.159975
+2024-06-30 19:15:59,906 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.120146 	 [Test Loss]: 0.081890
+2024-06-30 19:16:45,473 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 0.078431 	 [Test Loss]: 0.060338
+2024-06-30 19:17:33,217 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 0.060383 	 [Test Loss]: 0.050141
+2024-06-30 19:18:20,080 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.050165 	 [Test Loss]: 0.044144
+2024-06-30 19:19:07,670 - mylogger - INFO - Train Epoch: 5 	 [Train Loss]: 0.043955 	 [Test Loss]: 0.040045
+2024-06-30 19:19:52,508 - mylogger - INFO - Train Epoch: 6 	 [Train Loss]: 0.038402 	 [Test Loss]: 0.035526
+2024-06-30 19:20:36,825 - mylogger - INFO - Train Epoch: 7 	 [Train Loss]: 0.034852 	 [Test Loss]: 0.037952
+2024-06-30 19:21:20,946 - mylogger - INFO - Train Epoch: 8 	 [Train Loss]: 0.031324 	 [Test Loss]: 0.034148
+2024-06-30 19:22:05,697 - mylogger - INFO - Train Epoch: 9 	 [Train Loss]: 0.029095 	 [Test Loss]: 0.031120
+2024-06-30 19:22:05,704 - mylogger - INFO - Model saved to homework10/models/CNN_mnist.pth
+2024-06-30 19:22:31,187 - mylogger - INFO - train_accuracy = 0.9941
+2024-06-30 19:22:35,388 - mylogger - INFO - test_accuracy = 0.9893
+2024-06-30 19:49:43,242 - mylogger - INFO - learning rate: 0.001, epochs: 10
+2024-06-30 19:50:08,444 - mylogger - INFO - train_accuracy = 0.9941

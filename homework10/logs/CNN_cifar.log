@@ -1,0 +1,15 @@
+2024-06-30 19:11:18,670 - mylogger - INFO - learning rate: 0.001, epochs: 7
+2024-06-30 19:24:55,932 - mylogger - INFO - learning rate: 0.001, epochs: 7
+2024-06-30 19:25:27,474 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 1.704250 	 [Test Loss]: 1.450887
+2024-06-30 19:26:03,575 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 1.316699 	 [Test Loss]: 1.248127
+2024-06-30 19:26:44,039 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 1.176654 	 [Test Loss]: 1.155219
+2024-06-30 19:27:22,457 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 1.074840 	 [Test Loss]: 1.072893
+2024-06-30 19:28:00,096 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.996552 	 [Test Loss]: 1.025953
+2024-06-30 19:28:37,724 - mylogger - INFO - Train Epoch: 5 	 [Train Loss]: 0.943754 	 [Test Loss]: 1.007867
+2024-06-30 19:29:17,630 - mylogger - INFO - Train Epoch: 6 	 [Train Loss]: 0.904983 	 [Test Loss]: 0.958606
+2024-06-30 19:29:17,640 - mylogger - INFO - Model saved to homework10/models/CNN_cifar.pth
+2024-06-30 19:29:43,437 - mylogger - INFO - train_accuracy = 0.7006
+2024-06-30 19:29:47,878 - mylogger - INFO - test_accuracy = 0.6723
+2024-06-30 19:48:09,105 - mylogger - INFO - learning rate: 0.001, epochs: 7
+2024-06-30 19:48:29,958 - mylogger - INFO - train_accuracy = 0.7006
+2024-06-30 19:48:34,308 - mylogger - INFO - test_accuracy = 0.6723
