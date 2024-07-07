@@ -1,0 +1,95 @@
+2024-07-07 15:45:54,078 - mylogger - INFO - learning rate: 0.001, epochs: 5
+2024-07-07 15:46:06,021 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.761410 	 [Test Loss]: 0.582713
+2024-07-07 15:46:18,807 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.544553 	 [Test Loss]: 0.487667
+2024-07-07 15:46:33,618 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 0.461194 	 [Test Loss]: 0.412052
+2024-07-07 15:46:48,364 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 0.399734 	 [Test Loss]: 0.373536
+2024-07-07 15:47:03,335 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.351703 	 [Test Loss]: 0.335349
+2024-07-07 15:48:34,395 - mylogger - INFO - learning rate: 0.001, epochs: 5
+2024-07-07 15:48:47,806 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.761410 	 [Test Loss]: 0.582713
+2024-07-07 15:49:04,434 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.544553 	 [Test Loss]: 0.487667
+2024-07-07 15:49:20,553 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 0.461194 	 [Test Loss]: 0.412052
+2024-07-07 15:49:36,566 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 0.399734 	 [Test Loss]: 0.373536
+2024-07-07 15:49:52,881 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.351703 	 [Test Loss]: 0.335349
+2024-07-07 15:51:00,233 - mylogger - INFO - learning rate: 0.001, epochs: 1
+2024-07-07 15:51:13,707 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.761410 	 [Test Loss]: 0.582713
+2024-07-07 15:52:31,928 - mylogger - INFO - learning rate: 0.001, epochs: 1
+2024-07-07 15:52:45,226 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.761410 	 [Test Loss]: 0.582713
+2024-07-07 15:54:20,744 - mylogger - INFO - learning rate: 0.001, epochs: 1
+2024-07-07 15:54:33,964 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.761410 	 [Test Loss]: 0.582713
+2024-07-07 15:55:40,353 - mylogger - INFO - learning rate: 0.001, epochs: 1
+2024-07-07 15:55:53,987 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.761410 	 [Test Loss]: 0.582713
+2024-07-07 15:56:26,442 - mylogger - INFO - learning rate: 0.001, epochs: 2
+2024-07-07 15:56:40,593 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.761410 	 [Test Loss]: 0.582713
+2024-07-07 15:56:57,079 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.544553 	 [Test Loss]: 0.487667
+2024-07-07 16:00:30,012 - mylogger - INFO - learning rate: 0.001, epochs: 5
+2024-07-07 16:00:43,153 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.761410 	 [Test Loss]: 0.582713
+2024-07-07 16:00:59,599 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.544553 	 [Test Loss]: 0.487667
+2024-07-07 16:01:16,676 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 0.461194 	 [Test Loss]: 0.412052
+2024-07-07 16:01:33,385 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 0.399734 	 [Test Loss]: 0.373536
+2024-07-07 16:01:50,532 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.351703 	 [Test Loss]: 0.335349
+2024-07-07 16:01:50,544 - mylogger - INFO - Model saved to homework11/models/connected_autoencoder.pth
+2024-07-07 16:02:55,327 - mylogger - INFO - learning rate: 0.001, epochs: 5
+2024-07-07 16:03:08,862 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.761410 	 [Test Loss]: 0.582713
+2024-07-07 16:03:26,725 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.544553 	 [Test Loss]: 0.487667
+2024-07-07 16:03:43,819 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 0.461194 	 [Test Loss]: 0.412052
+2024-07-07 16:03:59,982 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 0.399734 	 [Test Loss]: 0.373536
+2024-07-07 16:04:16,686 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.351703 	 [Test Loss]: 0.335349
+2024-07-07 16:04:16,696 - mylogger - INFO - Model saved to homework11/models/connected_autoencoder.pth
+2024-07-07 16:05:08,974 - mylogger - INFO - learning rate: 0.001, epochs: 40
+2024-07-07 16:05:22,566 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.761410 	 [Test Loss]: 0.582713
+2024-07-07 16:05:38,859 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.544553 	 [Test Loss]: 0.487667
+2024-07-07 16:05:54,939 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 0.461194 	 [Test Loss]: 0.412052
+2024-07-07 16:06:11,149 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 0.399734 	 [Test Loss]: 0.373536
+2024-07-07 16:06:27,335 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.351703 	 [Test Loss]: 0.335349
+2024-07-07 16:06:43,503 - mylogger - INFO - Train Epoch: 5 	 [Train Loss]: 0.312427 	 [Test Loss]: 0.303111
+2024-07-07 16:06:59,591 - mylogger - INFO - Train Epoch: 6 	 [Train Loss]: 0.280609 	 [Test Loss]: 0.260314
+2024-07-07 16:07:15,721 - mylogger - INFO - Train Epoch: 7 	 [Train Loss]: 0.253171 	 [Test Loss]: 0.241104
+2024-07-07 16:07:31,860 - mylogger - INFO - Train Epoch: 8 	 [Train Loss]: 0.229481 	 [Test Loss]: 0.221598
+2024-07-07 16:07:48,067 - mylogger - INFO - Train Epoch: 9 	 [Train Loss]: 0.207328 	 [Test Loss]: 0.194668
+2024-07-07 16:08:04,110 - mylogger - INFO - Train Epoch: 10 	 [Train Loss]: 0.188188 	 [Test Loss]: 0.183668
+2024-07-07 16:08:20,285 - mylogger - INFO - Train Epoch: 11 	 [Train Loss]: 0.173132 	 [Test Loss]: 0.159526
+2024-07-07 16:08:37,756 - mylogger - INFO - Train Epoch: 12 	 [Train Loss]: 0.158030 	 [Test Loss]: 0.152179
+2024-07-07 16:08:54,213 - mylogger - INFO - Train Epoch: 13 	 [Train Loss]: 0.145735 	 [Test Loss]: 0.138264
+2024-07-07 16:09:10,562 - mylogger - INFO - Train Epoch: 14 	 [Train Loss]: 0.134985 	 [Test Loss]: 0.130919
+2024-07-07 16:09:26,849 - mylogger - INFO - Train Epoch: 15 	 [Train Loss]: 0.126699 	 [Test Loss]: 0.120696
+2024-07-07 16:09:43,045 - mylogger - INFO - Train Epoch: 16 	 [Train Loss]: 0.117976 	 [Test Loss]: 0.102993
+2024-07-07 16:09:59,231 - mylogger - INFO - Train Epoch: 17 	 [Train Loss]: 0.109286 	 [Test Loss]: 0.096092
+2024-07-07 16:10:15,344 - mylogger - INFO - Train Epoch: 18 	 [Train Loss]: 0.103705 	 [Test Loss]: 0.090324
+2024-07-07 16:10:31,517 - mylogger - INFO - Train Epoch: 19 	 [Train Loss]: 0.096643 	 [Test Loss]: 0.086558
+2024-07-07 16:10:47,731 - mylogger - INFO - Train Epoch: 20 	 [Train Loss]: 0.104023 	 [Test Loss]: 0.088575
+2024-07-07 16:11:03,752 - mylogger - INFO - Train Epoch: 21 	 [Train Loss]: 0.087329 	 [Test Loss]: 0.077556
+2024-07-07 16:11:19,779 - mylogger - INFO - Train Epoch: 22 	 [Train Loss]: 0.080672 	 [Test Loss]: 0.070031
+2024-07-07 16:11:35,961 - mylogger - INFO - Train Epoch: 23 	 [Train Loss]: 0.076194 	 [Test Loss]: 0.065283
+2024-07-07 16:11:52,806 - mylogger - INFO - Train Epoch: 24 	 [Train Loss]: 0.077584 	 [Test Loss]: 0.067644
+2024-07-07 16:12:09,273 - mylogger - INFO - Train Epoch: 25 	 [Train Loss]: 0.071896 	 [Test Loss]: 0.064705
+2024-07-07 16:12:25,422 - mylogger - INFO - Train Epoch: 26 	 [Train Loss]: 0.069341 	 [Test Loss]: 0.061432
+2024-07-07 16:12:41,505 - mylogger - INFO - Train Epoch: 27 	 [Train Loss]: 0.064879 	 [Test Loss]: 0.066314
+2024-07-07 16:12:57,505 - mylogger - INFO - Train Epoch: 28 	 [Train Loss]: 0.063225 	 [Test Loss]: 0.054378
+2024-07-07 16:13:13,544 - mylogger - INFO - Train Epoch: 29 	 [Train Loss]: 0.063799 	 [Test Loss]: 0.055178
+2024-07-07 16:13:29,765 - mylogger - INFO - Train Epoch: 30 	 [Train Loss]: 0.059291 	 [Test Loss]: 0.050545
+2024-07-07 16:13:45,797 - mylogger - INFO - Train Epoch: 31 	 [Train Loss]: 0.070239 	 [Test Loss]: 0.058446
+2024-07-07 16:14:02,106 - mylogger - INFO - Train Epoch: 32 	 [Train Loss]: 0.064282 	 [Test Loss]: 0.066747
+2024-07-07 16:14:18,118 - mylogger - INFO - Train Epoch: 33 	 [Train Loss]: 0.059339 	 [Test Loss]: 0.053678
+2024-07-07 16:14:34,325 - mylogger - INFO - Train Epoch: 34 	 [Train Loss]: 0.052617 	 [Test Loss]: 0.045117
+2024-07-07 16:14:50,380 - mylogger - INFO - Train Epoch: 35 	 [Train Loss]: 0.059992 	 [Test Loss]: 0.050064
+2024-07-07 16:15:06,345 - mylogger - INFO - Train Epoch: 36 	 [Train Loss]: 0.050787 	 [Test Loss]: 0.044920
+2024-07-07 16:15:22,351 - mylogger - INFO - Train Epoch: 37 	 [Train Loss]: 0.050120 	 [Test Loss]: 0.050589
+2024-07-07 16:15:38,495 - mylogger - INFO - Train Epoch: 38 	 [Train Loss]: 0.050584 	 [Test Loss]: 0.058226
+2024-07-07 16:15:54,690 - mylogger - INFO - Train Epoch: 39 	 [Train Loss]: 0.055340 	 [Test Loss]: 0.047509
+2024-07-07 16:15:54,699 - mylogger - INFO - Model saved to homework11/models/connected_autoencoder.pth
+2024-07-07 16:26:18,006 - mylogger - INFO - learning rate: 0.001, epochs: 40
+2024-07-07 16:28:00,896 - mylogger - INFO - learning rate: 0.001, epochs: 40
+2024-07-07 16:29:18,953 - mylogger - INFO - learning rate: 0.001, epochs: 40
+2024-07-07 16:29:20,719 - mylogger - INFO - Global Mean Squared Error (MSE) across all test images: 0.047509
+2024-07-07 16:29:20,882 - mylogger - INFO - Image 1: MSE = 0.030542
+2024-07-07 16:29:20,883 - mylogger - INFO - Image 2: MSE = 0.025909
+2024-07-07 16:29:20,883 - mylogger - INFO - Image 3: MSE = 0.035920
+2024-07-07 16:29:20,884 - mylogger - INFO - Image 4: MSE = 0.019786
+2024-07-07 16:29:20,884 - mylogger - INFO - Image 5: MSE = 0.031510
+2024-07-07 16:29:20,884 - mylogger - INFO - Image 6: MSE = 0.033778
+2024-07-07 16:29:20,885 - mylogger - INFO - Image 7: MSE = 0.021012
+2024-07-07 16:29:20,885 - mylogger - INFO - Image 8: MSE = 0.024297
+2024-07-07 16:29:20,886 - mylogger - INFO - Image 9: MSE = 0.036360
+2024-07-07 16:29:20,886 - mylogger - INFO - Image 10: MSE = 0.027208
+2024-07-07 16:33:56,670 - mylogger - INFO - learning rate: 0.001, epochs: 40
+2024-07-07 16:33:58,418 - mylogger - INFO - Global Mean Squared Error (MSE) across all test images: 0.047509

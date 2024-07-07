@@ -1,0 +1,23 @@
+2024-07-07 16:43:19,947 - mylogger - INFO - Model saved to homework11/models/convolutional_autoencoder.pth
+2024-07-07 16:48:31,816 - mylogger - INFO - Train Epoch: 0 	 [Train Loss]: 0.331045 	 [Test Loss]: 0.127206
+2024-07-07 16:50:12,740 - mylogger - INFO - Train Epoch: 1 	 [Train Loss]: 0.070579 	 [Test Loss]: 0.043559
+2024-07-07 16:51:51,773 - mylogger - INFO - Train Epoch: 2 	 [Train Loss]: 0.033078 	 [Test Loss]: 0.026094
+2024-07-07 16:53:31,146 - mylogger - INFO - Train Epoch: 3 	 [Train Loss]: 0.021301 	 [Test Loss]: 0.017721
+2024-07-07 16:55:09,994 - mylogger - INFO - Train Epoch: 4 	 [Train Loss]: 0.015761 	 [Test Loss]: 0.013884
+2024-07-07 16:56:49,298 - mylogger - INFO - Train Epoch: 5 	 [Train Loss]: 0.012666 	 [Test Loss]: 0.011472
+2024-07-07 16:58:27,273 - mylogger - INFO - Train Epoch: 6 	 [Train Loss]: 0.010712 	 [Test Loss]: 0.010021
+2024-07-07 17:00:07,624 - mylogger - INFO - Train Epoch: 7 	 [Train Loss]: 0.009351 	 [Test Loss]: 0.008899
+2024-07-07 17:01:47,068 - mylogger - INFO - Train Epoch: 8 	 [Train Loss]: 0.008345 	 [Test Loss]: 0.007949
+2024-07-07 17:03:25,489 - mylogger - INFO - Train Epoch: 9 	 [Train Loss]: 0.007575 	 [Test Loss]: 0.007125
+2024-07-07 17:03:25,497 - mylogger - INFO - Model saved to homework11/models/convolutional_autoencoder.pth
+2024-07-07 17:03:33,758 - mylogger - INFO - Global Mean Squared Error (MSE) across all test images: 0.007125
+2024-07-07 17:03:34,541 - mylogger - INFO - Image 1: MSE = 0.007609
+2024-07-07 17:03:34,542 - mylogger - INFO - Image 2: MSE = 0.006720
+2024-07-07 17:03:34,543 - mylogger - INFO - Image 3: MSE = 0.008519
+2024-07-07 17:03:34,543 - mylogger - INFO - Image 4: MSE = 0.004573
+2024-07-07 17:03:34,544 - mylogger - INFO - Image 5: MSE = 0.005758
+2024-07-07 17:03:34,544 - mylogger - INFO - Image 6: MSE = 0.006310
+2024-07-07 17:03:34,545 - mylogger - INFO - Image 7: MSE = 0.005369
+2024-07-07 17:03:34,545 - mylogger - INFO - Image 8: MSE = 0.009790
+2024-07-07 17:03:34,546 - mylogger - INFO - Image 9: MSE = 0.007137
+2024-07-07 17:03:34,546 - mylogger - INFO - Image 10: MSE = 0.006206
